@@ -215,7 +215,7 @@ Go to **_Extensions > Installer_**, locate the module, and click **_Uninstall_**
 <p align="center"><img src="images/uninstall.png" width="600" alt="Uninstall" title="Uninstall"></p>
 
 # Troubleshooting
-Access the Troubleshooting page.
+Access the <a href="https://github.com/ab-rodrigo/instagram-gallery-multilang-docs/blob/main/troubleshooting.md" target="_blank">Troubleshooting</a>.  page.
 
 # Licence
 GNU General Public License version 3 (GPLv3) - https://www.gnu.org/
