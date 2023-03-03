@@ -6,10 +6,7 @@
 ![Badge](https://img.shields.io/badge/ocmod-true-informational?style=flat&logoColor=white)
 [![Badge](https://img.shields.io/badge/donate--brightgreen?style=flat&logoColor=white&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=SPQH2B32XBJUW)
 
-
-------------------------adicionar link do modulo
-#### [Module page](https://www.opencart.com/index.php?route=marketplace/extension/info&member_token=WLqKHdv5dxRfQMg1JBLZdQpIzBEE6ZEP&extension_id=40900)
-
+### <a href="https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44728&filter_member=Rodrigoabr" target="_blank">Module page</a>
 
 # Troubleshooting page 
 ---
@@ -33,8 +30,7 @@
 GNU General Public License version 3 (GPLv3) - https://www.gnu.org/
 
 # How to get help
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-adicionar pagina do modulo
+Please access the [module page](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44728&filter_member=Rodrigoabr) and click on the 'Get Support' button.
 
 Please access the module page and click on the 'Get Support' button.
 
