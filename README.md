@@ -4,7 +4,7 @@
 ![Badge](https://img.shields.io/badge/ocmod-true-informational?style=flat&logoColor=white)
 [![Badge](https://img.shields.io/badge/donate--brightgreen?style=flat&logoColor=white&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=SPQH2B32XBJUW)
 
-### <img src="images/external_link_icon.png" width="30" alt="Module page" title="Module page"><a href="https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44767&filter_member=Rodrigoabr" target="_blank"> Module page</a>
+### <img src="images/external_link_icon.png" width="30" alt="Module page" title="Module page"><a href="https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44678&filter_member=Rodrigoabr" target="_blank"> Module page</a>
 
 - [Welcome](#welcome)
 - [Overview](#overview)
@@ -217,7 +217,7 @@ Access the <a href="https://github.com/ab-rodrigo/instagram-gallery-multilang-do
 GNU General Public License version 3 (GPLv3) - https://www.gnu.org/
 
 # How to get help
-Please access the <a href="https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44767&filter_member=Rodrigoabr" target="_blank"> module page <img src="images/external_link_icon.png" width="15" alt="Module page" title="Module page"></a> and click on the 'Get Support' button.
+Please access the <a href="https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44678&filter_member=Rodrigoabr" target="_blank"> module page <img src="images/external_link_icon.png" width="15" alt="Module page" title="Module page"></a> and click on the 'Get Support' button.
 
 # Contact
 Rodrigo Barbosa - ab.rodrigo@outlook.com
