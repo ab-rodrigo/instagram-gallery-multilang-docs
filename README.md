@@ -4,7 +4,7 @@
 ![Badge](https://img.shields.io/badge/ocmod-true-informational?style=flat&logoColor=white)
 [![Badge](https://img.shields.io/badge/donate--brightgreen?style=flat&logoColor=white&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=SPQH2B32XBJUW)
 
-### <a href="https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44728&filter_member=Rodrigoabr" target="_blank">Module page</a>
+### <img src="images/external_link_icon.png" width="30" alt="Module page" title="Module page"><a href="https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44728&filter_member=Rodrigoabr" target="_blank"> Module page</a>
 
 - [Welcome](#welcome)
 - [Overview](#overview)
@@ -102,7 +102,6 @@ Enter the name of the new _child gallery_, select the _parent gallery_ and click
 # API configuration (Main Galleries only)
 This chapter/tutorial demonstrates how to configure an Instagram App in the app dashboard and how to set up the API for the module.
 >Before you start, make sure you already have a <a href="https://developers.facebook.com/" target="_blank">Facebook Developer Account</a>  and the store is not in maintenance mode.
-<!-- <p align="center"><img src="images/api_tab_form.png" width="600" alt="API configuration" title="API configuration"></p> -->
 
 ## Create a Facebook App
 Go to <a href="https://developers.facebook.com/" target="_blank">Facebook Developer Account</a>, click **_My Apps_**, and create a new app.
@@ -179,7 +178,7 @@ The setup for Instagram Basic Display and Module API is complete when the API st
 # View configuration tab
 <p align="center"><img src="images/view_tab.png" width="600" alt="View configuration" title="View configuration"></p>
 
-+ **Media per view**: The maximum number of media that will be displayed.
++ **Media per view**: The maximum number of images that will be displayed.
 + **View type**: Type of visualization.
 + **Pagination**: Show pagination bullet points.
 + **Zoom effect**: Type of zoom effect while mouse hovers over the image.
@@ -205,21 +204,20 @@ In the **_Access Permissions_** and **_Modification Permissions_** lists, find t
 <p align="center"><img src="images/permissions.png" width="600" alt="Permissions" title="Permissions"></p>
 
 # Uninstall
-<p align="center">
-<img src="images/caution.png" width="400" alt="Permissions" title="Permissions"></p>
+<p style="color:red;font-weight:bold;font-size:1.3rem">Caution: This operation cannot be undone!</p>
 When uninstalling the module, all settings, galleries, and media will be deleted. 
 
 Go to **_Extensions > Installer_**, locate the module, and click **_Uninstall_** at the end of the row.
 <p align="center"><img src="images/uninstall.png" width="600" alt="Uninstall" title="Uninstall"></p>
 
 # Troubleshooting
-Access the <a href="https://github.com/ab-rodrigo/instagram-gallery-multilang-docs/blob/main/troubleshooting.md" target="_blank">Troubleshooting</a>.  page.
+Access the <a href="https://github.com/ab-rodrigo/instagram-gallery-multilang-docs/blob/main/troubleshooting.md" target="_blank">Troubleshooting page <img src="images/external_link_icon.png" width="15" alt="Troubleshooting page" title="Troubleshooting page"></a>.
 
 # Licence
 GNU General Public License version 3 (GPLv3) - https://www.gnu.org/
 
 # How to get help
-Please access the [module page](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44728&filter_member=Rodrigoabr) and click on the 'Get Support' button.
+Please access the <a href="https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44728&filter_member=Rodrigoabr" target="_blank"> module page <img src="images/external_link_icon.png" width="15" alt="Module page" title="Module page"></a> and click on the 'Get Support' button.
 
 # Contact
 Rodrigo Barbosa - ab.rodrigo@outlook.com
