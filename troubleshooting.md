@@ -6,7 +6,7 @@
 ![Badge](https://img.shields.io/badge/ocmod-true-informational?style=flat&logoColor=white)
 [![Badge](https://img.shields.io/badge/donate--brightgreen?style=flat&logoColor=white&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=SPQH2B32XBJUW)
 
-### <a href="https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44728&filter_member=Rodrigoabr" target="_blank">Module page</a>
+### <img src="images/external_link_icon.png" width="30" alt="Module page" title="Module page"><a href="https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44728&filter_member=Rodrigoabr" target="_blank"> Module page</a>
 
 # Troubleshooting page 
 ---
@@ -25,14 +25,13 @@
 + **Error:** {"error_type": "OAuthException", "code": 400, "error_message": "Invalid redirect_uri"}
 + **Description:** The redirect URLs are not the same.
 + **How to solve:** See the [Instagram Basic Display and API Configuration Module](#instagram-basic-display-and-api-configuration-module) section and ensure that all URLs are the same as those copied in the 'API' tab of the module.
+---
 
 # Licence
 GNU General Public License version 3 (GPLv3) - https://www.gnu.org/
 
 # How to get help
-Please access the [module page](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44728&filter_member=Rodrigoabr) and click on the 'Get Support' button.
-
-Please access the module page and click on the 'Get Support' button.
+Please access the <a href="https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44728&filter_member=Rodrigoabr" target="_blank"> module page <img src="images/external_link_icon.png" width="15" alt="Module page" title="Module page"></a> and click on the 'Get Support' button.
 
 # Contact
 Rodrigo Barbosa - ab.rodrigo@outlook.com
