@@ -214,7 +214,7 @@ Nas listas **_Permissões de acesso_** e **_Permissões de modificação_**, loc
 <p align="center"><img src="images/permissions.png" width="600" alt="Permissões" title="Permissões"></p>
 
 # Desinstalar
-<p style="color:red;font-weight:bold;font-size:1.3rem">Cuidado: Esta operação não poderá ser desfeita!</p>
+<p align="center"><img src="images/caution.png" width="400" alt="caution" title="caution"></p>
 Ao desinstalar o módulo, todas as configurações, galerias e mídias serão excluídas.
 
 Vá para **_Extensões > Instalador_**, localize o módulo e clique em **_Desinstalar_** no final da linha.

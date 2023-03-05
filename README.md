@@ -204,7 +204,7 @@ In the **_Access Permissions_** and **_Modification Permissions_** lists, find t
 <p align="center"><img src="images/permissions.png" width="600" alt="Permissions" title="Permissions"></p>
 
 # Uninstall
-<p style="color:red;font-weight:bold;font-size:1.3rem">Caution: This operation cannot be undone!</p>
+<p align="center"><img src="images/caution.png" width="400" alt="caution" title="caution"></p>
 When uninstalling the module, all settings, galleries, and media will be deleted. 
 
 Go to **_Extensions > Installer_**, locate the module, and click **_Uninstall_** at the end of the row.
