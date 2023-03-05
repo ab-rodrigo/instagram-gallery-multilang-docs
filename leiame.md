@@ -4,7 +4,7 @@
 ![Badge](https://img.shields.io/badge/ocmod-true-informational?style=flat&logoColor=white)
 [![Badge](https://img.shields.io/badge/donate--brightgreen?style=flat&logoColor=white&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=SPQH2B32XBJUW)
 
-### <img src="images/external_link_icon.png" width="30" alt="Module page" title="Module page"><a href="https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44678&filter_member=Rodrigoabr" target="_blank"> Module page</a>
+### <img src="images/external_link_icon.png" width="30" alt="Module page" title="Module page"><a href="https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44768&filter_member=Rodrigoabr" target="_blank"> Module page</a>
 
 - [Bem-vindo](#bem-vindo)
 - [Visão geral](#visão-geral)
@@ -227,7 +227,7 @@ Acesse a [página de solução de problemas](https://github.com/ab-rodrigo/insta
 GNU General Public License version 3 (GPLv3) - https://www.gnu.org/
 
 # Como obter ajuda
-Por favor, acesse a [página do módulo](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44678&filter_member=Rodrigoabr) e clique no botão "Obter suporte".
+Por favor, acesse a [página do módulo](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44768&filter_member=Rodrigoabr) e clique no botão "Obter suporte".
 
 # Contato
 Rodrigo Barbosa - ab.rodrigo@outlook.com
