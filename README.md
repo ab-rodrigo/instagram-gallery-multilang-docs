@@ -167,12 +167,13 @@ The setup for Instagram Basic Display and Module API is complete when the API st
 # General configuration tab
 <p align="center"><img src="images/general_tab_form.png" width="600" alt="General configuration" title="General configuration"></p>
 
-+ **Name**: This text is used to identify the gallery. Duplicate names for galleries are not permitted.
++ **Name**: This text is used to identify the gallery. Duplicate names for galleries are not allowed.
 + **Title**: The title that will be displayed above the gallery allows you to use HTML and CSS.
 + **Types of posts**: Types of Instagram posts that will provide content for the gallery.
 + **Album media type**: Types of media that will be provided from the albums.
 + **Images from album**: The quantity of media that will be provided from the albums.
 + **Update**: Period during which the oldest image in the gallery will be updated.
++ **Hastag**: Hashtag used to mark the posts that the module will look for.
 + **Status**: Gallery status.
 
 # View configuration tab

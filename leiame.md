@@ -183,6 +183,7 @@ A configuração para o Instagram Basic Display e a API do módulo está complet
 + **Tipo de mídia do álbum**: Tipos de mídia que serão fornecidos dos álbuns.
 + **Imagens do álbum**: A quantidade de mídia que será fornecida dos álbuns.
 + **Atualização**: Período durante o qual a imagem mais antiga da galeria será atualizada.
++ **Hastag**: Hashtag usada para marcar os posts que o módulo irá procurar..
 + **Status**: Status da galeria.
 
 # Aba de configuração de visualização
