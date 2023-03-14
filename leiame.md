@@ -21,6 +21,7 @@
   - [Adicionar um usuário de teste do Instagram](#adicionar-um-usuário-de-teste-do-instagram)
   - [Autenticar o usuário](#autenticar-o-usuário)
 - [Aba de configuração geral](#aba-de-configuração-geral)
+  - [Hashtag](#hashtag)
 - [Aba de configuração de visualização](#aba-de-configuração-de-visualização)
 - [Exibir a galeria no layout.](#exibir-a-galeria-no-layout)
 - [Permissões de acesso e modificação](#permissões-de-acesso-e-modificação)
@@ -183,8 +184,12 @@ A configuração para o Instagram Basic Display e a API do módulo está complet
 + **Tipo de mídia do álbum**: Tipos de mídia que serão fornecidos dos álbuns.
 + **Imagens do álbum**: A quantidade de mídia que será fornecida dos álbuns.
 + **Atualização**: Período durante o qual a imagem mais antiga da galeria será atualizada.
-+ **Hastag**: Hashtag usada para marcar os posts que o módulo irá procurar..
++ **Hashtag**: Hashtag usada para marcar os posts que o módulo irá procurar.
 + **Status**: Status da galeria.
+
+## Hashtag
+Na aba Geral, configure a hashtag que será utilizada para marcar os posts que o módulo deverá procurar para criar a galeria. Postagens que não tiverem a hashtag serão ignoradas pelo módulo.
+<p align="center"><img src="images/hashtag.png" width="600" alt="Hashtag" title="Hashtag"></p>
 
 # Aba de configuração de visualização
 <p align="center"><img src="images/view_tab.png" width="600" alt="Configuração de visualização" title="Configuração de visualização"></p>

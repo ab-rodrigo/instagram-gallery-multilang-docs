@@ -21,6 +21,7 @@
   - [Add an Instagram Test User](#add-an-instagram-test-user)
   - [Authenticate the User](#authenticate-the-user)
 - [General configuration tab](#general-configuration-tab)
+  - [Hashtag](#hashtag)
 - [View configuration tab](#view-configuration-tab)
 - [Display the gallery in the layout.](#display-the-gallery-in-the-layout)
 - [Access and Modification Permissions](#access-and-modification-permissions)
@@ -173,8 +174,12 @@ The setup for Instagram Basic Display and Module API is complete when the API st
 + **Album media type**: Types of media that will be provided from the albums.
 + **Images from album**: The quantity of media that will be provided from the albums.
 + **Update**: Period during which the oldest image in the gallery will be updated.
-+ **Hastag**: Hashtag used to mark the posts that the module will look for.
++ **Hashtag**: Hashtag used to mark the posts that the module will look for.
 + **Status**: Gallery status.
+
+## Hashtag
+On the General tab, configure the hashtag that will be used to tag the posts that the module will look for to create the gallery. Posts that do not have the hashtag will be ignored by the module.
+<p align="center"><img src="images/hashtag.png" width="600" alt="Hashtag" title="Hashtag"></p>
 
 # View configuration tab
 <p align="center"><img src="images/view_tab.png" width="600" alt="View configuration" title="View configuration"></p>
