@@ -37,7 +37,7 @@ Welcome to the documentation for the Instagram Gallery Multi-Language module for
 
 # Overview
 Create image galleries using your Instagram posts.
-<img src="images/example.png" alt="Visão geral" title="Visão geral" style="display: block;margin-left: auto;margin-right: auto;">
+<p><img src="images/example.png" alt="Visão geral" title="Visão geral" style="display: block;margin-left: auto;margin-right: auto;"></p>
 
 # Resources
 + Hashtag
