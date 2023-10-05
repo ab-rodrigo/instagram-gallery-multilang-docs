@@ -37,7 +37,7 @@ Bem-vindo à documentação do módulo Instagram Gallery Multi-Language para Ope
 
 # Visão geral
 Crie galerias de imagens usando suas postagens do Instagram.
-<img src="images/example.png" alt="Visão geral" title="Visão geral" style="display: block;margin-left: auto;margin-right: auto;">
+<p><img src="images/example.png" alt="Visão geral" title="Visão geral" style="display: block;margin-left: auto;margin-right: auto;"></p>
 
 # Recursos
 + Hashtag
