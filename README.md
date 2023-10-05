@@ -36,8 +36,8 @@
 Welcome to the documentation for the Instagram Gallery Multi-Language module for Opencart versions 3.x and 4.x.
 
 # Overview
-Display your Instagram posts directly on your store with ease. Utilize Meta's official API to showcase your Instagram posts as an image gallery on your online store. Create a variety of visualizations, add effects, titles, subtitles, links to the original media post, navigation buttons, pagination buttons, and much more. Configure the API once and create multiple galleries, each with a unique visualization style, and display them in different layouts.
-<p align="center"><img src="images/overview.png" alt="Overview" title="Overview"></p>
+Create image galleries using your Instagram posts.
+<img src="images/example.png" alt="Visão geral" title="Visão geral" style="display: block;margin-left: auto;margin-right: auto;">
 
 # Resources
 + Hashtag
